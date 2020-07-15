@@ -14,5 +14,10 @@ namespace TrabalhoComHeranca
         {
             InitializeComponent();
         }
+
+        private void FrmCrudCliente_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

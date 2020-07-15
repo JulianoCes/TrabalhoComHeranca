@@ -127,11 +127,12 @@
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>7, 13</value>
   </data>
-  <data name="clienteToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>194, 30</value>
-  </data>
   <data name="pbImagemInicial.Size" type="System.Drawing.Size, System.Drawing">
     <value>741, 231</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="menuStrip1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
@@ -161,20 +162,20 @@
   <data name="funcionarioToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>194, 30</value>
   </data>
-  <data name="clienteToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Cliente</value>
+  <data name="&gt;&gt;sairToolStripMenuItem.Name" xml:space="preserve">
+    <value>sairToolStripMenuItem</value>
   </data>
   <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>20, 60</value>
   </data>
-  <data name="funcionarioToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Funcionario</value>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
   </data>
   <data name="relatorioToolStripMenuItem.Text" xml:space="preserve">
     <value>Relatório</value>
   </data>
-  <data name="&gt;&gt;sairToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;pbImagemInicial.Name" xml:space="preserve">
+    <value>pbImagemInicial</value>
   </data>
   <data name="&gt;&gt;clienteToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -185,17 +186,8 @@
   <data name="&gt;&gt;relatorioToolStripMenuItem.Name" xml:space="preserve">
     <value>relatorioToolStripMenuItem</value>
   </data>
-  <data name="pbImagemInicial.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>CenterImage</value>
-  </data>
-  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>747, 33</value>
-  </data>
   <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
     <value>$this</value>
-  </data>
-  <data name="sairToolStripMenuItem.Text" xml:space="preserve">
-    <value>Sair</value>
   </data>
   <data name="&gt;&gt;pbImagemInicial.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -212,11 +204,17 @@
   <data name="funcionarioToolStripMenuItem.Text" xml:space="preserve">
     <value>Funcionario</value>
   </data>
+  <data name="&gt;&gt;funcionarioToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;clienteToolStripMenuItem1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>FrmInicial</value>
+  <data name="pbImagemInicial.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="sairToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sair</value>
   </data>
   <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
     <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -224,9 +222,8 @@
   <data name="cadastroToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 29</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pbImagemInicial.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;sairToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;relatorioToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -234,8 +231,8 @@
   <data name="pbImagemInicial.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="funcionarioToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Funcionario</value>
   </data>
   <data name="&gt;&gt;funcionarioToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -243,17 +240,20 @@
   <data name="&gt;&gt;cadastroToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;funcionarioToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>747, 33</value>
   </data>
   <data name="&gt;&gt;clienteToolStripMenuItem.Name" xml:space="preserve">
     <value>clienteToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;sairToolStripMenuItem.Name" xml:space="preserve">
-    <value>sairToolStripMenuItem</value>
+  <data name="pbImagemInicial.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>CenterImage</value>
   </data>
   <data name="&gt;&gt;funcionarioToolStripMenuItem.Name" xml:space="preserve">
     <value>funcionarioToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;clienteToolStripMenuItem1.Name" xml:space="preserve">
+    <value>clienteToolStripMenuItem1</value>
   </data>
   <data name="pbImagemInicial.Location" type="System.Drawing.Point, System.Drawing">
     <value>23, 109</value>
@@ -264,26 +264,23 @@
   <data name="relatorioToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>111, 29</value>
   </data>
-  <data name="&gt;&gt;pbImagemInicial.Name" xml:space="preserve">
-    <value>pbImagemInicial</value>
+  <data name="clienteToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Cliente</value>
   </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  <data name="clienteToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 30</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Menu Inicial</value>
   </data>
-  <data name="&gt;&gt;clienteToolStripMenuItem1.Name" xml:space="preserve">
-    <value>clienteToolStripMenuItem1</value>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FrmInicial</value>
   </data>
   <data name="&gt;&gt;pbImagemInicial.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>pt-BR</value>
   </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

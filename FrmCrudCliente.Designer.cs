@@ -34,9 +34,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.ClientSize = new System.Drawing.Size(589, 389);
-            this.Location = new System.Drawing.Point(0, 0);
             this.Name = "FrmCrudCliente";
             this.Text = "Cadastro de Cliente";
+            this.Load += new System.EventHandler(this.FrmCrudCliente_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

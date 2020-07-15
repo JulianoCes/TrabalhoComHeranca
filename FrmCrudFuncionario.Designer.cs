@@ -34,7 +34,6 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.ClientSize = new System.Drawing.Size(588, 394);
-            this.Location = new System.Drawing.Point(0, 0);
             this.Name = "FrmCrudFuncionario";
             this.Text = "Cadastro de Funcionario";
             this.ResumeLayout(false);

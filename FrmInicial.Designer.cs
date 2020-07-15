@@ -45,7 +45,7 @@
             // menuStrip1
             // 
             resources.ApplyResources(this.menuStrip1, "menuStrip1");
-            this.menuStrip1.BackColor = System.Drawing.Color.Gray;
+            this.menuStrip1.BackColor = System.Drawing.Color.ForestGreen;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cadastroToolStripMenuItem,
             this.relatorioToolStripMenuItem,
@@ -55,21 +55,26 @@
             // cadastroToolStripMenuItem
             // 
             resources.ApplyResources(this.cadastroToolStripMenuItem, "cadastroToolStripMenuItem");
-            this.cadastroToolStripMenuItem.BackColor = System.Drawing.Color.Gray;
+            this.cadastroToolStripMenuItem.BackColor = System.Drawing.Color.ForestGreen;
             this.cadastroToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.funcionarioToolStripMenuItem,
             this.clienteToolStripMenuItem});
+            this.cadastroToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.cadastroToolStripMenuItem.Name = "cadastroToolStripMenuItem";
             // 
             // funcionarioToolStripMenuItem
             // 
             resources.ApplyResources(this.funcionarioToolStripMenuItem, "funcionarioToolStripMenuItem");
+            this.funcionarioToolStripMenuItem.BackColor = System.Drawing.Color.ForestGreen;
+            this.funcionarioToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.funcionarioToolStripMenuItem.Name = "funcionarioToolStripMenuItem";
             this.funcionarioToolStripMenuItem.Click += new System.EventHandler(this.funcionarioToolStripMenuItem_Click);
             // 
             // clienteToolStripMenuItem
             // 
             resources.ApplyResources(this.clienteToolStripMenuItem, "clienteToolStripMenuItem");
+            this.clienteToolStripMenuItem.BackColor = System.Drawing.Color.ForestGreen;
+            this.clienteToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
             this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
             // 
@@ -79,21 +84,27 @@
             this.relatorioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.funcionarioToolStripMenuItem1,
             this.clienteToolStripMenuItem1});
+            this.relatorioToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.relatorioToolStripMenuItem.Name = "relatorioToolStripMenuItem";
             // 
             // funcionarioToolStripMenuItem1
             // 
             resources.ApplyResources(this.funcionarioToolStripMenuItem1, "funcionarioToolStripMenuItem1");
+            this.funcionarioToolStripMenuItem1.BackColor = System.Drawing.Color.ForestGreen;
+            this.funcionarioToolStripMenuItem1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.funcionarioToolStripMenuItem1.Name = "funcionarioToolStripMenuItem1";
             // 
             // clienteToolStripMenuItem1
             // 
             resources.ApplyResources(this.clienteToolStripMenuItem1, "clienteToolStripMenuItem1");
+            this.clienteToolStripMenuItem1.BackColor = System.Drawing.Color.ForestGreen;
+            this.clienteToolStripMenuItem1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.clienteToolStripMenuItem1.Name = "clienteToolStripMenuItem1";
             // 
             // sairToolStripMenuItem
             // 
             resources.ApplyResources(this.sairToolStripMenuItem, "sairToolStripMenuItem");
+            this.sairToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -113,10 +124,10 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmInicial";
-            this.Style = MetroFramework.MetroColorStyle.White;
+            this.Style = MetroFramework.MetroColorStyle.Green;
             this.TextAlign = MetroFramework.Forms.MetroFormTextAlign.Center;
             this.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.TransparencyKey = System.Drawing.Color.DarkTurquoise;
+            this.TransparencyKey = System.Drawing.Color.Green;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

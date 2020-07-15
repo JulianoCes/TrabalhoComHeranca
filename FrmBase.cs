@@ -7,13 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+
 
 namespace TrabalhoComHeranca
 {
-    public partial class FrmBase : MetroFramework.Forms.MetroForm
+    public partial class FrmBase : Form
     {
         public FrmBase()
         {
+            SqlConnection con = Conexao.ConectaAberto();
             InitializeComponent();
         }
 

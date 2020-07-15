@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conecta.cs" />
     <Compile Include="FrmBase.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +94,9 @@
     <EmbeddedResource Include="FrmCrudFuncionario.resx">
       <DependentUpon>FrmCrudFuncionario.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicial.pt-BR.resx">
+      <DependentUpon>FrmInicial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmInicial.resx">
       <DependentUpon>FrmInicial.cs</DependentUpon>
     </EmbeddedResource>
@@ -122,6 +126,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="imagens\engenharia-eletronica.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
