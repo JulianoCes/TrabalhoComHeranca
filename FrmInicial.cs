@@ -33,5 +33,17 @@ namespace TrabalhoComHeranca
             FrmCrudCliente cli = new FrmCrudCliente();
             cli.Show();
         }
+
+        private void clienteToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FrmRelCliente relcli = new FrmRelCliente();
+            relcli.Show();
+        }
+
+        private void funcionarioToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FrmRelFuncionario relfunc = new FrmRelFuncionario();
+            relfunc.Show();
+        }
     }
 }

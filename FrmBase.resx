@@ -118,37 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="mlblDescrição.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 221</value>
-  </data>
-  <data name="mlblDescrição.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="mlblDescrição.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="&gt;&gt;mlblDescrição.Name" xml:space="preserve">
-    <value>mlblDescrição</value>
-  </data>
-  <data name="&gt;&gt;mlblDescrição.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;mlblDescrição.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;mlblDescrição.ZOrder" xml:space="preserve">
-    <value>20</value>
-  </data>
   <data name="mtxtId.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="mtxtId.Location" type="System.Drawing.Point, System.Drawing">
-    <value>62, 60</value>
+    <value>75, 35</value>
   </data>
   <data name="mtxtId.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 21</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="mtxtId.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -162,19 +141,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;mtxtId.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>16</value>
   </data>
   <data name="mtxtNome.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="mtxtNome.Location" type="System.Drawing.Point, System.Drawing">
-    <value>68, 89</value>
+    <value>75, 64</value>
   </data>
   <data name="mtxtNome.Size" type="System.Drawing.Size, System.Drawing">
     <value>377, 21</value>
   </data>
   <data name="mtxtNome.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
+    <value>2</value>
   </data>
   <data name="&gt;&gt;mtxtNome.Name" xml:space="preserve">
     <value>mtxtNome</value>
@@ -186,19 +165,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;mtxtNome.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>15</value>
   </data>
   <data name="mtxtEndereco.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="mtxtEndereco.Location" type="System.Drawing.Point, System.Drawing">
-    <value>84, 114</value>
+    <value>91, 89</value>
   </data>
   <data name="mtxtEndereco.Size" type="System.Drawing.Size, System.Drawing">
     <value>361, 21</value>
   </data>
   <data name="mtxtEndereco.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
+    <value>3</value>
   </data>
   <data name="&gt;&gt;mtxtEndereco.Name" xml:space="preserve">
     <value>mtxtEndereco</value>
@@ -210,67 +189,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;mtxtEndereco.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="mtxtCpf.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="mtxtCpf.Location" type="System.Drawing.Point, System.Drawing">
-    <value>62, 141</value>
-  </data>
-  <data name="mtxtCpf.Size" type="System.Drawing.Size, System.Drawing">
-    <value>148, 21</value>
-  </data>
-  <data name="mtxtCpf.TabIndex" type="System.Int32, mscorlib">
-    <value>28</value>
-  </data>
-  <data name="&gt;&gt;mtxtCpf.Name" xml:space="preserve">
-    <value>mtxtCpf</value>
-  </data>
-  <data name="&gt;&gt;mtxtCpf.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtxtCpf.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;mtxtCpf.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="mtxtFone.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="mtxtFone.Location" type="System.Drawing.Point, System.Drawing">
-    <value>294, 141</value>
-  </data>
-  <data name="mtxtFone.Size" type="System.Drawing.Size, System.Drawing">
-    <value>151, 21</value>
-  </data>
-  <data name="mtxtFone.TabIndex" type="System.Int32, mscorlib">
-    <value>29</value>
-  </data>
-  <data name="&gt;&gt;mtxtFone.Name" xml:space="preserve">
-    <value>mtxtFone</value>
-  </data>
-  <data name="&gt;&gt;mtxtFone.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;mtxtFone.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;mtxtFone.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>14</value>
   </data>
   <data name="btnPesquisar.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="btnPesquisar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>377, 41</value>
+    <value>321, 34</value>
   </data>
   <data name="btnPesquisar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>131, 25</value>
   </data>
   <data name="btnPesquisar.TabIndex" type="System.Int32, mscorlib">
-    <value>30</value>
+    <value>11</value>
   </data>
   <data name="btnPesquisar.Text" xml:space="preserve">
     <value>Pesquisar</value>
@@ -285,7 +216,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnPesquisar.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>11</value>
   </data>
   <data name="btnCadastrar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
@@ -295,13 +226,13 @@
     <value>NoControl</value>
   </data>
   <data name="btnCadastrar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 28</value>
+    <value>469, 29</value>
   </data>
   <data name="btnCadastrar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>93, 35</value>
   </data>
   <data name="btnCadastrar.TabIndex" type="System.Int32, mscorlib">
-    <value>31</value>
+    <value>8</value>
   </data>
   <data name="btnCadastrar.Text" xml:space="preserve">
     <value>Cadastrar</value>
@@ -316,7 +247,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnCadastrar.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>10</value>
   </data>
   <data name="btnEditar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
@@ -325,13 +256,13 @@
     <value>NoControl</value>
   </data>
   <data name="btnEditar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 76</value>
+    <value>469, 76</value>
   </data>
   <data name="btnEditar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>93, 31</value>
   </data>
   <data name="btnEditar.TabIndex" type="System.Int32, mscorlib">
-    <value>32</value>
+    <value>10</value>
   </data>
   <data name="btnEditar.Text" xml:space="preserve">
     <value>Editar</value>
@@ -346,7 +277,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnEditar.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>9</value>
   </data>
   <data name="btnExcluir.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
@@ -355,13 +286,13 @@
     <value>NoControl</value>
   </data>
   <data name="btnExcluir.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 122</value>
+    <value>469, 118</value>
   </data>
   <data name="btnExcluir.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>93, 31</value>
   </data>
   <data name="btnExcluir.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
+    <value>12</value>
   </data>
   <data name="btnExcluir.Text" xml:space="preserve">
     <value>Excluir</value>
@@ -376,19 +307,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnExcluir.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>8</value>
   </data>
   <data name="btnSair.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="btnSair.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 178</value>
+    <value>469, 159</value>
   </data>
   <data name="btnSair.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>93, 29</value>
   </data>
   <data name="btnSair.TabIndex" type="System.Int32, mscorlib">
-    <value>34</value>
+    <value>9</value>
   </data>
   <data name="btnSair.Text" xml:space="preserve">
     <value>Sair</value>
@@ -403,19 +334,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnSair.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>7</value>
   </data>
   <data name="lblId.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblId.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="lblId.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 60</value>
+    <value>43, 40</value>
   </data>
   <data name="lblId.Size" type="System.Drawing.Size, System.Drawing">
-    <value>20, 13</value>
+    <value>21, 15</value>
   </data>
   <data name="lblId.TabIndex" type="System.Int32, mscorlib">
     <value>35</value>
@@ -433,52 +364,22 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblId.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>277, 188</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 13</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>36</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>6</value>
   </data>
   <data name="lblNome.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblNome.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="lblNome.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblNome.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 99</value>
+    <value>24, 69</value>
   </data>
   <data name="lblNome.Size" type="System.Drawing.Size, System.Drawing">
-    <value>39, 13</value>
+    <value>45, 15</value>
   </data>
   <data name="lblNome.TabIndex" type="System.Int32, mscorlib">
     <value>36</value>
@@ -496,82 +397,22 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblNome.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>282, 207</value>
-  </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 13</value>
-  </data>
-  <data name="label4.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
-  </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>271, 168</value>
-  </data>
-  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 13</value>
-  </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>37</value>
-  </data>
-  <data name="label5.Text" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="&gt;&gt;label5.Name" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="&gt;&gt;label5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="lblEndereco.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblEndereco.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="lblEndereco.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblEndereco.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 122</value>
+    <value>16, 92</value>
   </data>
   <data name="lblEndereco.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 13</value>
+    <value>68, 15</value>
   </data>
   <data name="lblEndereco.TabIndex" type="System.Int32, mscorlib">
     <value>37</value>
@@ -589,76 +430,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblEndereco.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
-  <data name="lblFuncao.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblFuncao.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
-  </data>
-  <data name="lblFuncao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblFuncao.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 146</value>
-  </data>
-  <data name="lblFuncao.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 13</value>
-  </data>
-  <data name="lblFuncao.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
-  </data>
-  <data name="lblFuncao.Text" xml:space="preserve">
-    <value>Função</value>
-  </data>
-  <data name="&gt;&gt;lblFuncao.Name" xml:space="preserve">
-    <value>lblFuncao</value>
-  </data>
-  <data name="&gt;&gt;lblFuncao.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblFuncao.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lblFuncao.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="lblSalario.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblSalario.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
-  </data>
-  <data name="lblSalario.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblSalario.Location" type="System.Drawing.Point, System.Drawing">
-    <value>229, 146</value>
-  </data>
-  <data name="lblSalario.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 13</value>
-  </data>
-  <data name="lblSalario.TabIndex" type="System.Int32, mscorlib">
-    <value>39</value>
-  </data>
-  <data name="lblSalario.Text" xml:space="preserve">
-    <value>Salário</value>
-  </data>
-  <data name="&gt;&gt;lblSalario.Name" xml:space="preserve">
-    <value>lblSalario</value>
-  </data>
-  <data name="&gt;&gt;lblSalario.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblSalario.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lblSalario.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="dgvBase.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
   <data name="dgvBase.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 216</value>
+    <value>19, 194</value>
   </data>
   <data name="dgvBase.Size" type="System.Drawing.Size, System.Drawing">
     <value>547, 150</value>
@@ -688,7 +466,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblDescricao.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 200</value>
+    <value>20, 178</value>
   </data>
   <data name="lblDescricao.Size" type="System.Drawing.Size, System.Drawing">
     <value>64, 13</value>
@@ -711,6 +489,120 @@
   <data name="&gt;&gt;lblDescricao.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="mtxtFone.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="mtxtFone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>301, 116</value>
+  </data>
+  <data name="mtxtFone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 21</value>
+  </data>
+  <data name="mtxtFone.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;mtxtFone.Name" xml:space="preserve">
+    <value>mtxtFone</value>
+  </data>
+  <data name="&gt;&gt;mtxtFone.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mtxtFone.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mtxtFone.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="lblTelefone.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTelefone.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lblTelefone.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTelefone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 122</value>
+  </data>
+  <data name="lblTelefone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 15</value>
+  </data>
+  <data name="lblTelefone.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="lblTelefone.Text" xml:space="preserve">
+    <value>Telefone</value>
+  </data>
+  <data name="&gt;&gt;lblTelefone.Name" xml:space="preserve">
+    <value>lblTelefone</value>
+  </data>
+  <data name="&gt;&gt;lblTelefone.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTelefone.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTelefone.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="mtxtCpf.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="mtxtCpf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 118</value>
+  </data>
+  <data name="mtxtCpf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 21</value>
+  </data>
+  <data name="mtxtCpf.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;mtxtCpf.Name" xml:space="preserve">
+    <value>mtxtCpf</value>
+  </data>
+  <data name="&gt;&gt;mtxtCpf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mtxtCpf.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mtxtCpf.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="lblCpf.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCpf.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lblCpf.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCpf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 119</value>
+  </data>
+  <data name="lblCpf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 15</value>
+  </data>
+  <data name="lblCpf.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="lblCpf.Text" xml:space="preserve">
+    <value>CPF</value>
+  </data>
+  <data name="&gt;&gt;lblCpf.Name" xml:space="preserve">
+    <value>lblCpf</value>
+  </data>
+  <data name="&gt;&gt;lblCpf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCpf.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCpf.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -718,10 +610,146 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>588, 389</value>
+    <value>588, 354</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        YII=
+</value>
   </data>
   <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>23, 60, 23, 20</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>FrmBase</value>

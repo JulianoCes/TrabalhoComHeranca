@@ -11,7 +11,7 @@ namespace TrabalhoComHeranca
         class Conexao
         {
         
-            private static string str = "Data Source = aula2020.database.windows.net; Initial Catalog = Juliano; User ID=tds02;Password=@nuvem2020;Connect Timeout = 60; Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            private static string str = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\programas\\TrabalhoComHeranca\\TrabalhoComHeranca\\Juliano.mdf;Integrated Security=True";
             private static SqlConnection con = null;
             public static SqlConnection ConectaAberto()
             {
